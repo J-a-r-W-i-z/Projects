@@ -1,1 +1,2 @@
-ReadMe
+Original-N.cpp is the file in which Normal Cache friendly Matrix Multiplication is implemented.
+Original-MT.cpp is the file in which Matrix Multiplication is performed by using multi-threading.
