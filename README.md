@@ -1,5 +1,9 @@
-# ark-tasks
-ARK Tasks
+# Projects
+Projects
 
-Four Tasks have been completed successfully.
--Anuj Kakde (20CS30005)
+Projects done by-
+Anuj Kakde 
+20CS30005
+2nd Year UG Student
+Computer Science and Engineering
+IIT Kharagpur
