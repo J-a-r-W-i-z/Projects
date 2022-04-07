@@ -1,9 +1,7 @@
 # Projects
-Projects
 
-Projects done by-
-Anuj Kakde 
-20CS30005
-2nd Year UG Student
-Computer Science and Engineering
-IIT Kharagpur
+Projects done by-<br><br>
+Anuj Kakde, 20CS30005<br>
+2nd Year UG Student<br>
+Computer Science and Engineering<br>
+Indian Institute of Technology, Kharagpur<br>
